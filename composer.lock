@@ -4,8 +4,8 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
         "This file is @generated automatically"
     ],
-    "hash": "a51cf2f447c366431ee4875b2753ed7e",
-    "content-hash": "c1f40da2288ba2d66bffbdafc430e927",
+    "hash": "924fd5ef93739161f698cff229195c64",
+    "content-hash": "4d10595aade237c05f489f16e22b187b",
     "packages": [
         {
             "name": "composer/composer",
@@ -13,12 +13,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/composer/composer.git",
-                "reference": "608770856e206e7d0c72689df8751e68431c0183"
+                "reference": "84ecabed3fbae56eba2cad2501c26abaa3b5e95a"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/composer/composer/zipball/608770856e206e7d0c72689df8751e68431c0183",
-                "reference": "608770856e206e7d0c72689df8751e68431c0183",
+                "url": "https://api.github.com/repos/composer/composer/zipball/84ecabed3fbae56eba2cad2501c26abaa3b5e95a",
+                "reference": "84ecabed3fbae56eba2cad2501c26abaa3b5e95a",
                 "shasum": ""
             },
             "require": {
@@ -80,7 +80,7 @@
                 "dependency",
                 "package"
             ],
-            "time": "2016-04-25 23:01:22"
+            "time": "2016-04-28 18:53:21"
         },
         {
             "name": "composer/semver",
